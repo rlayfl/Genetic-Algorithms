@@ -6,7 +6,7 @@
 
 # I am assuming they are all 1:72 scale for this. 
 
-#Hello
+#Hello there
 
 import random
 
