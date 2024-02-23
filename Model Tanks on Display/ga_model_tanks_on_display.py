@@ -6,6 +6,8 @@
 
 # I am assuming they are all 1:72 scale for this. 
 
+#Hello
+
 import random
 
 from model_tank import ModelTank
